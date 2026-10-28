@@ -38,7 +38,9 @@ GD-V2ray-ansible 是专为 Linux 管理员和高阶用户设计的 Ansible 自�
 
 默认支持：CentOS / Rocky Linux / RHEL 系列
 
-可扩展支持：只需简单修改包管理器（如将 yum 换成 apt），即可完美运行在 Debian / Ubuntu 系列上。
+可扩展支持：只需简单修改包管理器（如将 yum 换成 apt），即可完美运行在 Debian / Ubuntu 系列上。已经开源发布到GitHub仓库中。
+
+仓库地址：https://github.com/GD-Attack/GD-V2ray-ansible-Apt.git
 
 ## 🌟 项目特点
 
